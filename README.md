@@ -5,7 +5,7 @@
 - 👀 I’m interested in web development, UI/UX, teaching, playing tennis, and enjoying good coffee.
 - 🌱 I’m currently learning **advanced React, TypeScript, and Next.js.**
 - 💞️ I’m looking to collaborate on **frontend web projects, open source, and educational tech tools.**
-- 📫 How to reach me: **niloofarakhavan@yahoo.com**
+- 📫 How to reach me: **niloofar.akhavan.javan@gmail.com**
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a Master’s in AI, teach robotics, and write clean React code with love.
 
